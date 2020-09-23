@@ -1,4 +1,4 @@
 module.exports = {
-    stories: ['../src/*.stories.js', '../src/*.stories.js']
+    stories: ['../src/xwsx/*/*/*.stories.js', '../src/xwsx/*/*/*.stories.js']
   };
   
